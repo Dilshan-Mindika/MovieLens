@@ -28,8 +28,8 @@ Movie Lens is a modern web application built with React that helps users discove
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd filmfinder
+git clone https://github.com/Dilshan-Mindika/MovieLens
+cd MovieLens
 ```
 
 2. Install dependencies:
